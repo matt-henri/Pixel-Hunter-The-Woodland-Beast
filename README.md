@@ -1,15 +1,14 @@
-# 🌲🎮 Pixel Hunter: The Woodland Beast
+# Pixel Hunter: The Woodland Beast
  
 
 Esse repositório guarda o meu projeto acadêmico! Esse jogo foi desenvolvido como uma *demo* para um trabalho da faculdade **Uninter**. A ideia principal aqui era colocar a em prática o aprendizado de Python e ver o que era possível criar usando a biblioteca Pygame. 
 
 ---
 
-## 🕹️ Como Jogar (Tutorial e Controles)
+## Como Jogar (Tutorial e Controles)
 
 O jogo é bem direto ao ponto, mas tem que ter reflexo! Você precisa sobreviver à floresta e abater 15 feras para conseguir passar da fase em segurança. Deixei aqui os controles:
 
-### 👤 Player 1
 - **Movimentação:** Setas do teclado (⬅️ Esquerda / ➡️ Direita)
 - **Pulo:** Seta pra Cima (⬆️)
 - **Atirar / Atacar:** Barra de Espaço (Space)
@@ -19,7 +18,7 @@ O jogo é bem direto ao ponto, mas tem que ter reflexo! Você precisa sobreviver
 
 ---
 
-## 🛠️ O Background: Como o Projeto Nasceu?
+## O Background: Como o Projeto Nasceu?
 
 Então, como aconteceu por trás dos panos? 
 

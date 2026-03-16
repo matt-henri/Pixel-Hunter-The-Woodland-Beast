@@ -34,7 +34,7 @@ class Game:
                     game_over.run()
             elif menu_return == MENU_OPTION[1]:
                 pygame.quit()
-                quit()
+                sys.exit()
             else:
                 pygame.quit()
                 sys.exit()

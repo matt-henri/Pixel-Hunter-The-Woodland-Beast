@@ -5,6 +5,16 @@ Esse repositório guarda o meu projeto acadêmico! Esse jogo foi desenvolvido co
 
 ---
 
+## Como Executar o Jogo
+
+Se quiser jogar sem precisar instalar o Python ou configurar nada, é muito fácil! Já deixei pronto. 
+
+1. Acesse a pasta `dist` aqui no projeto.
+2. Dê um duplo clique no arquivo `main.exe`.
+3. Pronto, o jogo já vai abrir e você pode começar a jogar!
+
+---
+
 ## Como Jogar (Tutorial e Controles)
 
 O jogo é bem direto ao ponto, mas tem que ter reflexo! Você precisa sobreviver à floresta e abater 15 feras para conseguir passar da fase em segurança. Deixei aqui os controles:
